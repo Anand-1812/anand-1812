@@ -1,13 +1,13 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm [Anand Kumar]</h1>
-<h3 align="center">A passionate [Full Stack Developer in progress | CS Student | Problem Solver] from [India]</h3>
+<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h3 align="center">A passionate Full Stack Developer in progress | CS Student | Problem Solver from [India]</h3>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/[anand-1812]">
+  <a href="https://github.com/anand-1812">
     <img src="https://img.shields.io/github/followers/anand-1812?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/[Anand_Kumar1812]" target="blank">
+  <a href="https://twitter.com/Anand_Kumar1812" target="blank">
     <img src="https://img.shields.io/twitter/follow/Anand_Kumar1812?style=social" alt="Twitter Follow" />
   </a>
   <a href="https://linkedin.com/in/anand-kumar-6b3255373/" target="blank">
@@ -39,7 +39,6 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" />
 </p>
 
 ---
@@ -53,20 +52,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-1812&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-1812&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:[YourEmail]" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/[YourTwitter]" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/anand-kumar-6b3255373/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anand.work2005@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/Anand_Kumar1812" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/anand-1812)
+⭐️ From [Anand](https://github.com/anand-1812)
 
