@@ -5,12 +5,12 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/[anand-1812]">
-    <img src="https://img.shields.io/github/followers/[anand-1812]?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/anand-1812?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://twitter.com/[Anand_Kumar1812]" target="blank">
-    <img src="https://img.shields.io/twitter/follow/[Anand_Kumar1812]?style=social" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/Anand_Kumar1812?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://linkedin.com/in/[anand-kumar-6b3255373/]" target="blank">
+  <a href="https://linkedin.com/in/anand-kumar-6b3255373/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -18,9 +18,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I’m a **[3rd year CS student at KIIT-DU]**  
-- 💻 I love working on **[React, Tailwind, linux]**  
-- 🌱 Currently learning **[Nodejs /  / Skill]**  
+- 🎓 I’m a **3rd year CS student at KIIT-DU**  
+- 💻 I love working on **React, Tailwind, linux**  
+- 🌱 Currently learning **Backend**  
 
 ---
 
@@ -68,5 +68,5 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/[YourUsername])
+⭐️ From [Your Name](https://github.com/anand-1812)
 
