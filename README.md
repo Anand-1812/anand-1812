@@ -1,16 +1,16 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role e.g. Full Stack Developer | CS Student | Problem Solver] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm [Anand Kumar]</h1>
+<h3 align="center">A passionate [Full Stack Developer in progress | CS Student | Problem Solver] from [India]</h3>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://img.shields.io/github/followers/[YourUsername]?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/[anand-1812]">
+    <img src="https://img.shields.io/github/followers/[anand-1812]?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/[YourTwitter]" target="blank">
-    <img src="https://img.shields.io/twitter/follow/[YourTwitter]?style=social" alt="Twitter Follow" />
+  <a href="https://twitter.com/[Anand_Kumar1812]" target="blank">
+    <img src="https://img.shields.io/twitter/follow/[Anand_Kumar1812]?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank">
+  <a href="https://linkedin.com/in/[anand-kumar-6b3255373/]" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -18,10 +18,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I’m a **[Your Current Status: e.g. 3rd year CS student at XYZ University]**  
-- 💻 I love working on **[Technologies / Fields you love]**  
-- 🌱 Currently learning **[Framework / Language / Skill]**  
-- ⚡ Fun fact: **[Something quirky or unique about you]**
+- 🎓 I’m a **[3rd year CS student at KIIT-DU]**  
+- 💻 I love working on **[React, Tailwind, linux]**  
+- 🌱 Currently learning **[Nodejs /  / Skill]**  
 
 ---
 
