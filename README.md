@@ -31,10 +31,8 @@
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/anand-1812/shopping-cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-1812&repo=[Repo]&theme=tokyonight" />
   </a>
   <a href="https://github.com/anand-1812/gemini-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand-1812&repo=[Repo]&theme=tokyonight" />
   </a>
 </p>
 
