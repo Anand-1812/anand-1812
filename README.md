@@ -37,6 +37,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=anand-1812)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
