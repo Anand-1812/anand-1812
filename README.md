@@ -26,24 +26,16 @@
 ---
 
 ## Featured Projects
-<ul align="center">
-  <li>
-    <a href="https://anand-1812.github.io/shopping-cart">
-      Shopping Cart
-    </a>
-  </li>
-  <li>
-    <a href="https://anand-1812.github.io/gemini-clone">
-      AI Chat App
-    </a>
-  </li>
-  <li>
-    <a href="https://streako-tracker.vercel.app">
-      Streako
-    </a>
-  </li>
-</ul>
 
+- <a href="https://anand-1812.github.io/shopping-cart">
+    Shopping Cart
+  </a>
+- <a href="https://anand-1812.github.io/gemini-clone">
+    AI Chat App
+  </a>
+- <a href="https://streako-tracker.vercel.app">
+    Streako
+  </a>
 ---
 
 ## 📊 GitHub Stats
