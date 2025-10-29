@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h1 align="center">Hi, I'm Anand Kumar</h1>
 <h3 align="center">Full Stack Developer | CS Student | Problem Solver</h3>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ---
 
-## 🔭 About Me
+##  About Me
 
-- 🎓 3rd Year CS Student at **KIIT-DU**
-- 💻 Passionate about **React, Node.js, Tailwind, Linux**
-- 🌱 Learning **Backend & Cloud Development**
-- ⚡ Fun: I solve coding challenges & build **cool projects**
+- 3rd Year CS Student at **KIIT-DU**
+- Passionate about **React, Node.js, Tailwind, Linux**
+- Learning **Backend & Cloud Development**
+- Fun: I solve coding challenges & build **cool projects**
 
 ---
 
@@ -25,11 +25,16 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 <p align="center">
-  <a href="https://github.com/anand-1812/shopping-cart">
+  <a href="https://anand-1812.github.io/shopping-cart">
+    Shopping Cart
   </a>
-  <a href="https://github.com/anand-1812/gemini-clone">
+  <a href="https://anand-1812.github.io/gemini-clone">
+    AI Chat App
+  </a>
+  <a href="https://streako-tracker.vercel.app">
+    Streako
   </a>
 </p>
 
@@ -37,7 +42,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://streak-stats.demolab.com/?user=anand-1812&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
