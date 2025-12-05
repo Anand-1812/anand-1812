@@ -40,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-1812&theme=tokyonight&hide_border=true" width="60%" />
 </p>
----
 
 ## 🌐 Connect with Me
 
