@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Projects
 
-- <a href="https://anand-1812.github.io/shopping-cart">🛒 Shopping Cart</a>
+- <a href="https://shopping-cart-fake.vercel.app">🛒 Shopping Cart</a>
 - <a href="https://anand-1812.github.io/gemini-clone">🤖 AI Chat App</a>
 - <a href="https://streako-tracker.vercel.app">🔥 Streako</a>
 
