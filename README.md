@@ -1,48 +1,59 @@
-# Hi, I'm Anand Kumar 👨‍💻
+# Hi, I'm Anand Kumar 👋
 
-`Full Stack Developer | 3rd Year CS Student @ KIIT-DU | Professional Debugger`
+**Full Stack Developer • CS Student • Problem Solver**  
+Building things on the web, breaking them, fixing them, and learning fast.
 
-I’m a developer who enjoys the "aha!" moment that comes after three hours of debugging a single semicolon. I build tools that solve my own problems and hopefully yours, too. Currently navigating the depths of Backend systems and Cloud architecture while trying not to break my production builds.
-
-**The Essentials:**
-* 🧪 **Currently:** Exploring the nuances of Scalable Backend Systems.
-* 🐧 **OS:** I use Arch, btw (and I actually enjoy the manual configuration).
-* 🛠️ **Editor:** Moving fast in Vim because I forgot the exit command three years ago.
-* 🎯 **Focus:** Building impactful projects while maintaining a decent DSA streak.
-
----
-
-### 🛠️ My Toolbox
-
-**Languages & Core**
-`C++` • `JavaScript` • `Python` • `TypeScript`
-
-**Frontend & Styling**
-`React.js` • `Tailwind CSS` • `Next.js`
-
-**Backend & DevTools**
-`Node.js` • `Express` • `Linux (Arch)` • `Git` • `Vim`
-
----
-
-### 🌟 Featured Projects
-
-* [**Streako**](https://streako-tracker.vercel.app) – A productivity tracker for people who actually want to get things done.
-* [**AI Chat App**](https://anand-1812.github.io/gemini-clone) – A Gemini-powered interface for when I need an AI that listens better than my friends.
-* [**Shopping Cart**](https://shopping-cart-fake.vercel.app) – A clean, functional e-commerce flow focused on state management.
-
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+<p align="center">
+  <a href="https://github.com/anand-1812"><img src="https://img.shields.io/github/followers/anand-1812?label=Follow&style=social" /></a>
+  <a href="https://twitter.com/Anand_Kumar1812"><img src="https://img.shields.io/twitter/follow/Anand_Kumar1812?style=social" /></a>
+  <a href="https://linkedin.com/in/anand-kumar-6b3255373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## About me
 
-If you want to talk about system architecture, why Neovim is superior, or just share a good meme:
+- 3rd Year CS Student at **KIIT-DU**
+- I build with **React, Node.js, Tailwind** and ship small → ship often
+- Exploring **Backend + Cloud** (and trying not to set anything on fire)
+- I enjoy **DSA** and solving problems that actually hurt a little
+- Daily driver: **Arch Linux** (yes, I use Arch btw)
 
-[**LinkedIn**](https://linkedin.com/in/anand-kumar-6b3255373/) • [**Twitter**](https://twitter.com/Anand_Kumar1812) • [**Email**](mailto:anand.work2005@gmail.com)
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,git,linux,vim,tailwind" />
+</p>
+
+---
+
+## Featured projects
+
+- **Shopping Cart** — a clean frontend cart flow  
+  https://shopping-cart-fake.vercel.app
+
+- **AI Chat App** — a Gemini-style chat UI clone  
+  https://anand-1812.github.io/gemini-clone
+
+- **Streako** — habit + streak tracker  
+  https://streako-tracker.vercel.app
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/anand-kumar-6b3255373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anand.work2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/Anand_Kumar1812"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+</p>
