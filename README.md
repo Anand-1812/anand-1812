@@ -15,9 +15,9 @@ Building things on the web, breaking them, fixing them, and learning fast.
 
 - 3rd Year CS Student at **KIIT-DU**
 - I build with **React, Node.js, Tailwind** and ship small → ship often
-- Exploring **Backend + Cloud** (and trying not to set anything on fire)
-- I enjoy **DSA** and solving problems that actually hurt a little
-- Daily driver: **Arch Linux** (yes, I use Arch btw)
+- Exploring **Backend + ML** (and trying not to set anything on fire)
+- I enjoy **DSA** and solving problems (sometimes i like it)
+- **Arch Linux** (yes, I use Arch btw)
 
 ---
 
