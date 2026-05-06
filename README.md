@@ -17,11 +17,8 @@ Currently exploring backend architecture and ML on the side. I use Arch Linux an
 ## Projects
 
 **[Streako](https://streako-tracker.vercel.app)** — habit and streak tracker with reminders and progress insights  
-**[Cloud Compress](https://cloud-comress.vercel.app)** — browser-based image/file compressor  
-**[Sidein Notes](https://sidein-notes.vercel.app)** — quick-access sidebar note-taking app  
-**[AI Chat App](https://anand-1812.github.io/gemini-clone)** — Gemini-style chat UI clone  
-**[Shopping Cart](https://shopping-cart-fake.vercel.app)** — clean frontend cart flow  
-
+**[Cloud Compress](https://cloud-compress.vercel.app)** — browser-based image/file compressor  
+**[Sidein Notes](https://sideink-notes.vercel.app)** — quick-access sidebar note-taking app  
 ---
 
 ## Stats
