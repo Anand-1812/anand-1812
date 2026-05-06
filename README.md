@@ -22,7 +22,7 @@ Currently exploring Golang and ML on the side. I use Arch Linux and Vim, write a
 |---|---|---|
 | **Streako** | Habit and streak tracker with reminders and progress insights | [↗](https://streako-tracker.vercel.app) |
 | **Cloud Compress** | Browser-based image/file compressor, runs client-side | [↗](https://cloud-comress.vercel.app) |
-| **Sidein Notes** | Quick-access sidebar note-taking app | [↗](https://sidein-notes.vercel.app) |
+| **Sidein Notes** | Quick-access sidebar note-taking app | [↗](https://sideink-notes.vercel.app) |
 
 ---
 
