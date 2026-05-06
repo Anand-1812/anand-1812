@@ -4,8 +4,6 @@ CS student at KIIT-DU, Final year. I build things with React, Node.js, and Tailw
 
 Currently exploring Golang and ML on the side. I use Arch Linux and Vim, write a decent amount of C++ for DSA, and try to ship something working before over-engineering it.
 
-![](https://komarev.com/ghpvc/?username=anand-1812&style=flat&color=6366f1&label=profile+views)
-
 ---
 
 ## Stack
