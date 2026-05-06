@@ -4,6 +4,8 @@ CS student at KIIT-DU, 3rd year. I build things with React, Node.js, and Tailwin
 
 Currently exploring backend architecture and ML on the side. I use Arch Linux and Vim, write a decent amount of C++ for DSA, and try to ship something working before over-engineering it.
 
+![](https://komarev.com/ghpvc/?username=anand-1812&style=flat&color=6366f1&label=profile+views)
+
 ---
 
 ## Stack
@@ -16,16 +18,25 @@ Currently exploring backend architecture and ML on the side. I use Arch Linux an
 
 ## Projects
 
-**[Streako](https://streako-tracker.vercel.app)** — habit and streak tracker with reminders and progress insights  
-**[Cloud Compress](https://cloud-compress.vercel.app)** — browser-based image/file compressor  
-**[Sidein Notes](https://sideink-notes.vercel.app)** — quick-access sidebar note-taking app  
+| Project | Description | Live |
+|---|---|---|
+| **Streako** | Habit and streak tracker with reminders and progress insights | [↗](https://streako-tracker.vercel.app) |
+| **Cloud Compress** | Browser-based image/file compressor, runs client-side | [↗](https://cloud-comress.vercel.app) |
+| **Sidein Notes** | Quick-access sidebar note-taking app | [↗](https://sidein-notes.vercel.app) |
+| **AI Chat App** | Gemini-style chat UI clone | [↗](https://anand-1812.github.io/gemini-clone) |
+| **Shopping Cart** | Clean frontend cart flow with quantity controls and totals | [↗](https://shopping-cart-fake.vercel.app) |
 
 ---
 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-1812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-1812&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-1812&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
