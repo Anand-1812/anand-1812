@@ -19,6 +19,7 @@ Currently exploring backend architecture and ML on the side. I use Arch Linux an
 **[Streako](https://streako-tracker.vercel.app)** — habit and streak tracker with reminders and progress insights  
 **[Cloud Compress](https://cloud-compress.vercel.app)** — browser-based image/file compressor  
 **[Sidein Notes](https://sideink-notes.vercel.app)** — quick-access sidebar note-taking app  
+
 ---
 
 ## Stats
