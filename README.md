@@ -11,7 +11,7 @@ Currently exploring Golang and ML on the side. I use Arch Linux and Vim, write a
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,tailwind,git,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,tailwind,git,linux,vim,golang" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ Currently exploring Golang and ML on the side. I use Arch Linux and Vim, write a
 | Project | Description | Live |
 |---|---|---|
 | **Streako** | Habit and streak tracker with reminders and progress insights | [↗](https://streako-tracker.vercel.app) |
-| **Cloud Compress** | Browser-based image/file compressor, runs client-side | [↗](https://cloud-comress.vercel.app) |
+| **Cloud Compress** | Browser-based image/file compressor, runs client-side | [↗](https://cloud-compress.vercel.app) |
 | **Sidein Notes** | Quick-access sidebar note-taking app | [↗](https://sideink-notes.vercel.app) |
 
 ---
